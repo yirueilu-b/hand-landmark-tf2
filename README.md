@@ -1,5 +1,7 @@
 # MediaPipe Hand Landmark Model
 
+> # This repo is no longer maintained and there might be some mistakes in the code.
+
 An unofficial Implementation of Hand Landmark Model using Tensorflow 2.0.
 
 ## Usage
